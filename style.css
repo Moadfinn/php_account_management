@@ -1,0 +1,84 @@
+body {
+  background-color: #000000;
+}
+h1, h2, p {
+	color: #33ff66;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: lighter;
+}
+table {
+	background-color: #1f1f1f;
+	margin: auto;
+	width: 560;
+	border: 1px solid grey;
+	align: center;
+	border-collapse: collapse;
+}
+a:link {
+	color: #33ff66;
+	text-decoration: none;
+}
+a:visited {
+	color: #33ff66;
+	text-decoration: none;
+}
+a:hover {
+	color: #75ff97;
+	text-decoration: none;
+}
+a:active {
+	color: #09f744;
+	text-decoration: none;
+}
+.phos {
+	color: #33ff66;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: lighter;
+}
+
+.button {
+	background-color: #000000;
+	color: #33ff66;
+}
+
+.acDetails {
+	background-color: #1f1f1f;
+	border: 1px solid grey;
+	align: center;
+	padding: 15px;
+	align: center;
+	display: inline-block;
+}
+
+.aclist {
+	background-color: #1f1f1f;
+	margin: auto;
+	width: 560;
+	border: 1px solid grey;
+	align: center;
+	padding: 15px;
+	display: inline-block;
+}
+
+th {
+	border-bottom: 1px solid grey;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: lighter;
+	padding: 10px;
+	padding-right: 20px;
+	text-align: left;
+}
+h3 {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: lighter;
+	color: #33ff66;
+	test-align: left;
+}
+td {
+	padding: 10px;
+}
+input {
+	background-color: #000000;
+	color: #33ff66;
+}
